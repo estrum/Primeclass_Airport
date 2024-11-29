@@ -1,0 +1,6 @@
+@Primeclass_Airport.Api.WebApi_HostAddress = http://localhost:5213
+
+GET {{Primeclass_Airport.Api.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
