@@ -8,3 +8,7 @@
 # Build results
 bin/
 obj/
+
+#mine
+Primeclass_Airport.Domain.Context/SqlServerDbContextFactory.cs
+Primeclass_Airport.Api.WebApi/appsettings.json
